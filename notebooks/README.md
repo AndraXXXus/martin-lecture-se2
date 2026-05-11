@@ -1,6 +1,42 @@
 # SE2 Lecture 'GrammarBasedFuzzing' README
 
-## Getting started
+## Install guide:
+- Info for conda on Windows:
+  https://docs.conda.io/projects/conda/en/stable/user-guide/install/windows.html
+  
+- On Linux:
+  https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
+
+- Insall Conda On Linux
+  Navige with Terminal to a Folder of your choice and run these commands line-by-line: 
+  ```
+  $ wget wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  $ bash Miniconda3-latest-Linux-x86_64.sh
+
+  $ conda activate
+  ```
+- Create new Environment, switch and install
+  ```
+  conda create --name fuzzingHomeWork python=3.10
+  conda activate fuzzingHomeWork
+  pip install graphviz
+  pip install jupyter
+  pip install fuzzingbook numpy alhazen-py 
+  ```
+
+- If errors emerge run:
+  ```
+  sudo apt-get update
+  sudo apt-get install graphviz libgraphviz-dev pkg-config
+  pip install fuzzingbook numpy alhazen-py 
+  ```
+
+- Run Jupyter
+  ```
+  jupyter-notebook
+  ```
+
+## Original: Getting started
 
 - Download [Python 3.10](https://www.python.org/downloads/) (You will need at least >= Python 3.10)
    
