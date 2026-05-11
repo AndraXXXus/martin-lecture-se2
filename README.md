@@ -32,10 +32,11 @@ cd lecture-se2
 ## Contact & Feedback
 
 If you have any questions about the slides or would like to dive deeper into any topic, please reach out to:
-
+Original work by:
 - Email: martin.eberlein@hu-berlin.de
 - Website: https://martin-eberlein.com
 
 Feel free to submit issues or pull requests if you notice typos or wish to propose additional examples.
 
-    
+This semester in 2026 contact:
+- Email: andrewsolymos@gmail.com
