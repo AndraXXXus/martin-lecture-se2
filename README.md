@@ -24,7 +24,7 @@ Wherever Jupyter notebooks or code examples are referenced (e.g., basic fuzzing 
 1. **Download or clone** this repository:
    
 ```bash
-git clone https://github.com/martineberlein/lecture-se2.git
+git clone https://github.com/AndrewSolymos/martin-lecture-se2
 cd lecture-se2
 ```
 
