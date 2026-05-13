@@ -1,3 +1,7 @@
+# install guide here
+# https://github.com/AndrewSolymos/martin-lecture-se2/tree/main/notebooks
+
+
 # Software Engineering II (SE 2) – Lecture Slides
 
 **Instructor:** Martin Eberlein  
