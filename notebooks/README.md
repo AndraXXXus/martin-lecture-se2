@@ -3,6 +3,25 @@
 ## Install guide:
 - Info for conda on Windows:
   https://docs.conda.io/projects/conda/en/stable/user-guide/install/windows.html
+
+- Install after Conda on Windows
+  - Run Anaconda promt
+  - Create virtual env (THIS IS mandatory)
+  ```
+  conda create -n fuzzenv python=3.11 -y
+  conda activate fuzzenv
+  ```
+  
+  -Install packages (should not give any error now)
+  ```
+  pip install graphviz
+  pip install jupyter
+  pip install fuzzingbook numpy alhazen-py
+  ```
+  - Run Jupyter
+  ```
+  jupyter-notebook
+  ```
   
 - On Linux:
   https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
